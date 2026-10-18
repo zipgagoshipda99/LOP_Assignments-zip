@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/261028_Assignments/">
     <Project Path="261028_Assignments/Level_Easy/Level_Easy.csproj" />
+    <Project Path="261028_Assignments/Level_Medium/Level_Medium.csproj" />
   </Folder>
 </Solution>
